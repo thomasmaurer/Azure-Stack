@@ -10,7 +10,7 @@ microsoft/windowsservercore
 thomasmaurer/azurestackpowershell
 
 ## How to use this image 
-$ docker run -it thomasmaurer/azurestacktools
+`docker run -it thomasmaurer/azurestacktools`
 
 ## Find it here on the public Docker Hub
 https://hub.docker.com/r/thomasmaurer/azurestacktools/
